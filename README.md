@@ -1,2 +1,2 @@
 #Demo
-this is a simple PROJECCT
+this is a simple PROJECT
