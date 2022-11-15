@@ -1,2 +1,2 @@
-# demo
-demo account
+#Demo
+this is a simple project
